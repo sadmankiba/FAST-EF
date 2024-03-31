@@ -1,6 +1,6 @@
 # FAST-EF
 
-This repository contains the code and setup files for FAST-EF.
+This repository contains the code and setup files for FAST-EF. FAST-EF has been published as a journal paper in [IEEE Access](https://ieeeaccess.ieee.org/) with title ["Federated 3GPP Mobile Edge Computing Systems: A Transparent Proxy for 3rd-Party Authentication with Application Mobility Support (2022)"](https://ieeexplore.ieee.org/document/9743909). 
 
 
 ## Repository structure
